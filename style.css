@@ -1,0 +1,31 @@
+*{
+    font-family: "times new roman", "DFKai-sb";    
+}
+
+
+.title{
+    padding: auto;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.title:hover{
+    background-color:rgb(99, 133, 218) ; 
+}
+
+hr{
+    position: relative;bottom: 15px;
+    color: black;
+}
+
+.content{
+    font-size:larger;
+    padding: auto;
+    margin-right: 150px;
+    margin-left: 180px;
+
+}
+
+.content:hover{
+    background-color:rgb(163, 233, 230) ; 
+}
